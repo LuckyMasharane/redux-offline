@@ -593,3 +593,4 @@ Without their work, Redux Offline wouldn't exist. If you like the ideas behind R
 ### License
 
 MIT
+"# redux-offline" 
